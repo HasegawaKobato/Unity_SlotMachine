@@ -1,7 +1,6 @@
 .vs
 .vscode
 [Tt]emp/
-[Aa]ssets/**/*.meta
 Library/PlayerDataCache
 [Ll]ibrary/
 [Oo]bj/
