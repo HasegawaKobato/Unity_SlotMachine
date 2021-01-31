@@ -13,5 +13,5 @@
 
 #### 項目
 每行共有以下5種項目，每次輪轉將會隨機出現，每個項目之間並無關聯，都是獨立的存在。
-<div style="text-align: center;"> ![](https://i.imgur.com/BxDuUAb.png) ![](https://i.imgur.com/xiaCc1V.png) ![](https://i.imgur.com/zr47PKr.png) ![](https://i.imgur.com/t6bjRaL.png) ![](https://i.imgur.com/NRapGTH.png) </div>
+![](https://i.imgur.com/BxDuUAb.png) ![](https://i.imgur.com/xiaCc1V.png) ![](https://i.imgur.com/zr47PKr.png) ![](https://i.imgur.com/t6bjRaL.png) ![](https://i.imgur.com/NRapGTH.png)
 ※ 目前這五種項目並無特殊附加效果。
